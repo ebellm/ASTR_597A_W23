@@ -20,4 +20,5 @@ help:
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 publish: html
-	scp -rp _build/html/* ovid:~/public_html/courses/ASTR_597A_W23/
+	#scp -rp _build/html/* ovid:~/public_html/courses/ASTR_597A_W23/
+	rsync -avz _build/html/* ovid:~/public_html/courses/ASTR_597A_W23/
