@@ -27,3 +27,4 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_title = "ASTR 597A"
 language = "en"
+html_favicon = 'images/lsst_favicon.ico'

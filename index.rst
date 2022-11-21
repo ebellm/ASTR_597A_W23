@@ -9,11 +9,22 @@ ASTR 597A: Astronomy with Rubin Observatory and LSST
    :caption: Contents:
 
    enrollment
+   schedule
+   assignments
+   finalproject
+   rsp
+   resources
 
+.. image:: images/_DSC1187.jpg
+   :alt: The Vera C. Rubin Observatory at night.  Credit Bruno C. Quint.
 
 Instructors
 ===========
-Eric Bellm & Zeljko Ivezic
+`Eric Bellm`_ & `Zeljko Ivezic`_
+
+.. _`Eric Bellm`: https://faculty.washington.edu/ecbellm/
+
+.. _`Zeljko Ivezic`: https://faculty.washington.edu/ivezic/
 
 Course Information
 ==================
