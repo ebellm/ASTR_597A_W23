@@ -36,5 +36,5 @@ Week 8: Time Domain Science: Variables
 Week 9: Static Sky Science: Extragalactic, Photo-z, & Cosmology
 ===============================================================
 
-Week 10: Commissioning Plans
-============================
+Week 10: Commissioning Plans & Final Presentations
+==================================================
