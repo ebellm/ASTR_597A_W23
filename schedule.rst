@@ -21,13 +21,13 @@ Week 2: Status of the Rubin Construction Project
 ================================================
 Jan. 10: Guest Speaker: `Victor Krabbendam <https://www.lsst.org/about/team/lsst-project-manager>`_
 
-Jan. 12:
+Jan. 12: No class (AAS)
 
 Week 3: LSST Data Processing Algorithms and Data Products
 =========================================================
 Jan. 17: Guest Speaker: Ian Sullivan
 
-Jan 19: 
+Jan 19: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_
 
 Week 4: Survey Scheduling in Commissioning and Operations
 =========================================================
