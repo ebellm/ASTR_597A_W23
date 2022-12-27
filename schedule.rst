@@ -6,9 +6,6 @@ Schedule
 Most weeks we will have a guest speaker from the UW Rubin team provide an overview of the week's topic on Tuesday.
 Thursday's classes will be more hands-on, with a mixture of Q&A, interactive work in the Rubin Science Platform, and co-working on homework and other projects.
 
-.. warning::
-   This schedule is still in development.  Topics and speakers may change or shift.
-
 Week 1: Introduction to LSST and the RSP
 ========================================
 Jan. 3: Course Introduction 
@@ -28,6 +25,8 @@ Week 3: LSST Data Processing Algorithms and Data Products
 Jan. 17: Guest Speaker: Ian Sullivan
 
 Jan 19: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_
+
+Reading: `Data Products Definition Document <http://ls.st/dpdd>`_
 
 Week 4: Survey Scheduling in Commissioning and Operations
 =========================================================
