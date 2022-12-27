@@ -13,7 +13,7 @@ Class Participation: 20%
 Homework
 ========
 
-Homeworks will be assigned weekly; due dates and times are TBC.  Exercises will be a mix of calculations based on the readings and practical data analysis in the RSP.
+Homeworks will be assigned weekly and are due by the start of class on Tuesday.  Exercises will be a mix of calculations based on the readings and practical data analysis in the RSP.
 
 Collaboration
 =============

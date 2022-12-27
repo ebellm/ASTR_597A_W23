@@ -18,7 +18,7 @@ Week 2: Status of the Rubin Construction Project
 ================================================
 Jan. 10: Guest Speaker: `Victor Krabbendam <https://www.lsst.org/about/team/lsst-project-manager>`_
 
-Jan. 12: No class (AAS)
+Jan. 12: No class meeting (AAS)
 
 Week 3: LSST Data Processing Algorithms and Data Products
 =========================================================
@@ -38,11 +38,15 @@ Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_
 
 Feb. 2
 
+Reading: `Science Book`_ Chapters 9, 13, 14, & 15
+
 Week 6: Solar System Science
 ============================
 Feb. 7: Guest speaker: `Mario Juric <http://research.majuric.org/public/>`_
 
 Feb. 9:
+
+Reading: `Science Book`_ Chapter 5
 
 Week 7: Time Domain Science: Transients
 =======================================
@@ -50,20 +54,28 @@ Feb. 14: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/mel
 
 Feb. 16
 
+Reading: `Science Book`_ Chapters 8 & 11
+
 Week 8: Time Domain Science: Variables
 ======================================
 Feb. 21: Guest Speaker: `Neven Caplar <http://www.ncaplar.com/>`_
 
 Feb. 23
 
+Reading: `Science Book`_ Chapters 8 & 10
+
 Week 9: Static Sky Science: Galactic Structure
 ==============================================
-Feb. 28: Guest Speaker: `Colin Slater <https://ctslater.github.io/>`_
+Feb. 28: Guest Speaker: `Colin Slater <https://ctslater.github.io/>`_.  Final projects due.
 
 Mar. 2
 
+Reading: `Science Book`_ Chapters 6 & 7
+
 Week 10: Commissioning Plans & Final Presentations
 ==================================================
-Mar. 7: Commissioning Overview
+Mar. 7: Commissioning Overview.  Peer review of final projects due.
 
 Mar. 9: Final Presentations
+
+.. _`Science Book`: https://www.lsst.org/scientists/scibook
