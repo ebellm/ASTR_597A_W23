@@ -24,3 +24,9 @@ Late Work
 =========
 
 Late work will be penalized 50%.  The lowest homework score of the quarter will be dropped.
+
+
+Assignments
+===========
+
+:download:`Homework #1 <Homework/HW1.pdf>`
