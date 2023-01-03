@@ -8,17 +8,22 @@ Thursday's classes will be more hands-on, with a mixture of Q&A, interactive wor
 
 Week 1: Introduction to LSST and the RSP
 ========================================
-Jan. 3: Course Introduction 
+Jan. 3: Course Introduction.  :download:`slides <Lectures/Astr597A_Week1_Tue_Ivezic.pptx>`
 
 Jan. 5: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_
 
 Reading: `Ivezic et al. 2019 <https://ui.adsabs.harvard.edu/abs/2019ApJ...873..111I/abstract>`_, "LSST: From Science Drivers to Reference Design and Anticipated Data Products"
+
+:download:`Homework #1 <Homework/HW1.pdf>`
+
 
 Week 2: Status of the Rubin Construction Project
 ================================================
 Jan. 10: Guest Speaker: `Victor Krabbendam <https://www.lsst.org/about/team/lsst-project-manager>`_
 
 Jan. 12: No class meeting (AAS)
+
+Reading: `DP0.2 Documentation <https://dp0-2.lsst.io/>`_
 
 Week 3: LSST Data Processing Algorithms and Data Products
 =========================================================
