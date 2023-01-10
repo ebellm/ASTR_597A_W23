@@ -25,6 +25,8 @@ Jan. 12: No class meeting (AAS)
 
 Reading: `DP0.2 Documentation <https://dp0-2.lsst.io/>`_
 
+:download:`Homework #2 <Homework/HW2.ipynb>`
+
 Week 3: LSST Data Processing Algorithms and Data Products
 =========================================================
 Jan. 17: Guest Speaker: Ian Sullivan

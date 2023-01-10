@@ -30,3 +30,4 @@ Assignments
 ===========
 
 :download:`Homework #1 <Homework/HW1.pdf>`
+:download:`Homework #2 <Homework/HW2.ipynb>`
