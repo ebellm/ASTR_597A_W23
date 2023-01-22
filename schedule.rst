@@ -45,7 +45,7 @@ Week 5: Static Sky Science: Extragalactic, Photo-z, & Cosmology
 ===============================================================
 Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_
 
-Feb. 2
+Feb. 2: Final Project overview. Proposal writing and reviewing.
 
 Reading: `Science Book`_ Chapters 9, 13, 14, & 15
 
