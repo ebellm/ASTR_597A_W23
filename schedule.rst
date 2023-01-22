@@ -35,6 +35,8 @@ Jan 19: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/meli
 
 Reading: `Data Products Definition Document <http://ls.st/dpdd>`_
 
+:download:`Homework #3 <Homework/HW3.ipynb>`
+
 Week 4: Survey Scheduling in Commissioning and Operations
 =========================================================
 Jan. 24 & 26: Guest speaker: `Peter Yoachim <https://astro.washington.edu/people/peter-yoachim>`_
