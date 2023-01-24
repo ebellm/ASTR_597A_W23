@@ -41,6 +41,10 @@ Week 4: Survey Scheduling in Commissioning and Operations
 =========================================================
 Jan. 24 & 26: Guest speaker: `Peter Yoachim <https://astro.washington.edu/people/peter-yoachim>`_
 
+Readings: `Bianco et al. 2022 <https://ui.adsabs.harvard.edu/abs/2022ApJS..258....1B/abstract>`_, `PSTN-051 <https://pstn-051.lsst.io/>`_, `PSTN-055 <https://pstn-055.lsst.io/>`_
+
+:download:`Homework #4 <Homework/HW4.ipynb>`
+
 Week 5: Static Sky Science: Extragalactic, Photo-z, & Cosmology 
 ===============================================================
 Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_
