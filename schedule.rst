@@ -29,7 +29,7 @@ Reading: `DP0.2 Documentation <https://dp0-2.lsst.io/>`_
 
 Week 3: LSST Data Processing Algorithms and Data Products
 =========================================================
-Jan. 17: Guest Speaker: Ian Sullivan
+Jan. 17: Guest Speaker: Ian Sullivan :download:`slides <Lectures/Sullivan-ASTR597.pdf>`
 
 Jan 19: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_
 
