@@ -39,7 +39,7 @@ Reading: `Data Products Definition Document <http://ls.st/dpdd>`_
 
 Week 4: Survey Scheduling in Commissioning and Operations
 =========================================================
-Jan. 24 & 26: Guest speaker: `Peter Yoachim <https://astro.washington.edu/people/peter-yoachim>`_
+Jan. 24 & 26: Guest speaker: `Peter Yoachim <https://astro.washington.edu/people/peter-yoachim>`_ :download:`slides 1 <Lectures/Rubin_Observatory_Survey_Strategy_Yoachim.pdf>` :download:`slides 2 <Lectures/Rubin_Observatory_Science_Performance_Yoachim.pdf>`
 
 Readings: `Bianco et al. 2022 <https://ui.adsabs.harvard.edu/abs/2022ApJS..258....1B/abstract>`_, `PSTN-051 <https://pstn-051.lsst.io/>`_, `PSTN-055 <https://pstn-055.lsst.io/>`_
 
@@ -51,7 +51,7 @@ Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_
 
 Feb. 2: Final Project overview. Proposal writing and reviewing.
 
-Reading: `Science Book`_ Chapters 9, 13, 14, & 15
+Reading: `Science Book`_ Chapters 9, 13, 14, & 15.  `Newman & Gruen 2022 <https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..363N/abstract>`_
 
 Week 6: Solar System Science
 ============================
