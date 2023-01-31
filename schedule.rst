@@ -53,6 +53,8 @@ Feb. 2: Final Project overview. Proposal writing and reviewing.
 
 Reading: `Science Book`_ Chapters 9, 13, 14, & 15.  `Newman & Gruen 2022 <https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..363N/abstract>`_
 
+:download:`Homework #5 <Homework/HW5.ipynb>`
+
 Week 6: Solar System Science
 ============================
 Feb. 7: Guest speaker: `Mario Juric <http://research.majuric.org/public/>`_
