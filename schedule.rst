@@ -47,9 +47,9 @@ Readings: `Bianco et al. 2022 <https://ui.adsabs.harvard.edu/abs/2022ApJS..258..
 
 Week 5: Static Sky Science: Extragalactic, Photo-z, & Cosmology 
 ===============================================================
-Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_
+Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_ :download:`slide <Lectures/lsst_galalxies_connolly.pptx>`
 
-Feb. 2: Final Project overview. Proposal writing and reviewing.
+Feb. 2: Final Project overview. Proposal writing and reviewing. :download:`slides <Lectures/Bellm_ASTR_597A_proposals.pdf>`
 
 Reading: `Science Book`_ Chapters 9, 13, 14, & 15.  `Newman & Gruen 2022 <https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..363N/abstract>`_
 
@@ -57,11 +57,11 @@ Reading: `Science Book`_ Chapters 9, 13, 14, & 15.  `Newman & Gruen 2022 <https:
 
 Week 6: Solar System Science
 ============================
-Feb. 7: Guest speaker: `Mario Juric <http://research.majuric.org/public/>`_
+Feb. 7 & 9 : Guest speaker: `Mario Juric <http://research.majuric.org/public/>`_
 
-Feb. 9:
+Reading: `Science Book`_ Chapter 5, `Schwamb et al. 2018 <https://ui.adsabs.harvard.edu/abs/2018arXiv180201783S/abstract>`_
 
-Reading: `Science Book`_ Chapter 5
+:download:`Homework #6 <Homework/HW6.pdf>`
 
 Week 7: Time Domain Science: Transients
 =======================================

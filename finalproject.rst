@@ -13,10 +13,10 @@ The first final project option is meant to encourage you to think practically ab
 
 Like a real proposal, your proposal should convince the reader that the question you're answering is scientifically important and include enough quantitative analysis to justify the resources being requested.  You can use whatever format you like, but you will be asked to identify a concrete proposal call that your proposal could be submitted to.
 
-Short ApJ Letter-style paper analyzing DP0.2 data
-=================================================
+Short ApJ Letter-style paper analyzing DP0.2 or simulated Solar System catalogs 
+===============================================================================
 
-This final project option focuses on scientific data analysis.  Identify an interesting topic that could be addressed with DP0.2 data, perform the analysis, and write a short (~5 page) journal-style paper describing the results.
+This final project option focuses on scientific data analysis.  Identify an interesting topic that could be addressed with DP0.2 or simulated solar system data, perform the analysis, and write a short (~5 page) journal-style paper describing the results.
 Your paper need not be "ready for submission," but it should be plausibly publishable with further polishing.
 
 Peer Review
