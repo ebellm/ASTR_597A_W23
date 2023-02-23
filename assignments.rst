@@ -40,3 +40,5 @@ Assignments
 :download:`Homework #5 <Homework/HW5.ipynb>`
 
 :download:`Homework #6 <Homework/HW6.pdf>`
+
+:download:`Homework #7 <Homework/HW7.ipynb>`

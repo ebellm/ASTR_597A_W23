@@ -47,7 +47,7 @@ Readings: `Bianco et al. 2022 <https://ui.adsabs.harvard.edu/abs/2022ApJS..258..
 
 Week 5: Static Sky Science: Extragalactic, Photo-z, & Cosmology 
 ===============================================================
-Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_ :download:`slide <Lectures/lsst_galalxies_connolly.pptx>`
+Jan. 31: Guest Speaker: `Andy Connolly <https://faculty.washington.edu/ajc26/>`_ :download:`slides <Lectures/lsst_galalxies_connolly.pptx>`
 
 Feb. 2: Final Project overview. Proposal writing and reviewing. :download:`slides <Lectures/Bellm_ASTR_597A_proposals.pdf>`
 
@@ -65,32 +65,34 @@ Reading: `Science Book`_ Chapter 5, `Schwamb et al. 2018 <https://ui.adsabs.harv
 
 Week 7: Time Domain Science: Transients
 =======================================
-Feb. 14: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_
+Feb. 14: Guest speaker: `Melissa Graham <https://astro.washington.edu/people/melissa-l-graham>`_ :download:`slides <Lectures/ASTR597_Time_Domain_Science_Transients.pdf>`
 
-Feb. 16
+Feb. 16: Photometric Classification :download:`slides <Lectures/Bellm_ASTR_597A_classfication.pdf>`
 
 Reading: `Science Book`_ Chapters 8 & 11
 
+:download:`Homework #7 <Homework/HW7.ipynb>`
+
 Week 8: Time Domain Science: Variables
 ======================================
-Feb. 21: Guest Speaker: `Neven Caplar <http://www.ncaplar.com/>`_
+Feb. 21: Guest Speaker: `Neven Caplar <http://www.ncaplar.com/>`_ :download:`slides <Lectures/Time_Domain_Science_Variables.pdf>`
 
-Feb. 23
+Feb. 23: Stellar Distances :download:`slides <Lectures/Astr597A_Week8_Thu_Ivezic.pdf>`, Astrostatistics :download:`notebook <Lectures/Astr597A_astroMLexamples.ipynb>`.
 
 Reading: `Science Book`_ Chapters 8 & 10
 
 Week 9: Static Sky Science: Galactic Structure
 ==============================================
-Feb. 28: Guest Speaker: `Colin Slater <https://ctslater.github.io/>`_.  Final projects due.
+Feb. 28: Guest Speaker: `Colin Slater <https://ctslater.github.io/>`_.  Final project outline due.
 
-Mar. 2
+Mar. 2: Multi-Messenger Astronomy with Rubin
 
 Reading: `Science Book`_ Chapters 6 & 7
 
-Week 10: Commissioning Plans & Final Presentations
-==================================================
-Mar. 7: Commissioning Overview.  Peer review of final projects due.
+Week 10: Commissioning Plans & Final Projects
+=============================================
+Mar. 7: Commissioning Overview.  Final projects due.
 
-Mar. 9: Final Presentations
+Mar. 9: Peer review of final projects
 
 .. _`Science Book`: https://www.lsst.org/scientists/scibook
